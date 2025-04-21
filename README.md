@@ -26,3 +26,9 @@ a great easy way to get started on setting up a DNS server. I've worked with it
 fairly extensively on other projects testing networking implementations and I
 enjoy it. It also has DNSSec, DoT, and DoH implementations, so any desired
 security features have a track record of gaining support from unbound.
+
+## Disclaimer
+
+This is not a fork of Unbound. This project is not affiliated with NLNet Labs,
+Unbound, Pihole, or any other projects mentioned. All trademarks mentioned are
+the property of their respective owners.
